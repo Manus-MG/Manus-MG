@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&multiline=true&width=540&lines=Hello+this+is+MG%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 </h2>
 
-<h4 align="center">Passionate Full Stack Developer seeking internship opportunities. I'm interested in App development and working on random project in my free time.</h4>
+<h4 align="center">Passionate Full Stack App Developer seeking internship opportunities. I'm interested in App development and working on random project in my free time.</h4>
 
 
 
@@ -15,9 +15,11 @@
 
 - 📫 How to reach me **manas.gupta.2014@gmail.com**
 
-- 📄 Know about my experiences [Drive Link](https://drive.google.com/file/d/1jg-9zxz13HSMtSfYqFntzYKAC8qXkIjI/view?usp=sharing)
+- 📄 Know about my experiences [Drive Link](https://drive.google.com/file/d/1mjZBsR43xPH24baRGGsOK0RUjQuD_iY3/view?usp=share_link)
 
-<h3 align="left">Connect with me:</h3>
+---
+
+<h3 align="left">🔗Connect with me:</h3>
 
 <p align="left"> 
   <a href="https://linkedin.com/in/manus-gupta">
@@ -40,8 +42,8 @@
 
 
 <!-- ###Languages and Tools:  -->
-<h2 align="center">Languages and Tools:</h2>
-<p align="center"> 
+<h2 align="left">Languages and Tools:</h2>
+<p align="left"> 
   <img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,css,dart,discord,express,firebase,flutter,git,github,html,java,js,mongodb,nodejs,ps,py,vscode&perline=9">
 </p>
 <!-- 
