@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **manas.gupta.2014@gmail.com**
 
-- 📄 Know about my experiences [Drive Link](https://drive.google.com/file/d/1mjZBsR43xPH24baRGGsOK0RUjQuD_iY3/view?usp=share_link)
+- 📄 Know about my experiences [Drive Link](https://drive.google.com/file/d/1_b_1M72o38Sj-H1KYdq-PwIRBuK17Rvb/view?usp=sharing)
 
 ---
 
