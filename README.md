@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&multiline=true&width=540&lines=Hello+this+is+MG%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 </h2>
 
-<h4 align="center">Passionate Full Stack App Developer seeking internship opportunities. I'm interested in App development and working on random project in my free time.</h4>
+<h4 align="center">Passionate Full Stack App Developer seeking fulltime opportunities. I'm interested in App development and working on random project in my free time.</h4>
 
 
 
